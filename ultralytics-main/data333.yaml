@@ -1,0 +1,4 @@
+train: E:\bishe\archive\train\images
+val: E:\bishe\archive\val\images
+nc: 5
+names: ['Open Eye','Closed Eye','Cigarette','Phone','Seatbelt']
